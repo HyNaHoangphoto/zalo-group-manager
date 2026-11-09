@@ -1,0 +1,8 @@
+version: 2.2.10
+files:
+  - url: ZaloGroupManager-Setup-2.2.10.exe
+    sha512: IIPF93meC8IHs7o325BmmUxgumjzJexFpatNkpWRmX15u/y/hMPLeZeVXzkLSp/t3nWLyfhS/5GBVfbNVzOvDg==
+    size: 83117863
+path: ZaloGroupManager-Setup-2.2.10.exe
+sha512: IIPF93meC8IHs7o325BmmUxgumjzJexFpatNkpWRmX15u/y/hMPLeZeVXzkLSp/t3nWLyfhS/5GBVfbNVzOvDg==
+releaseDate: '2026-11-09T12:46:47.242Z'
